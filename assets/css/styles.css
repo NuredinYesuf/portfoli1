@@ -187,10 +187,11 @@ img {
 .home__data {
   align-self: center;
 }
-.home__title {
-  font-size: var(--big-font-size);
+..home__title {
+  font-size: 1.25rem; /* Medium font size, typically 20px */
   margin-bottom: var(--mb-5);
 }
+
 .home__title-color {
   color: var(--first-color);
 }
